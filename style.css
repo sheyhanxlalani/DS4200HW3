@@ -1,22 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+
+
 body {
-    background-color: #f4f4f4;
+    background-color: #e8e8e8;
     color: #333;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-size: 2em;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Lobster', cursive;
+    
+    
 }
 
 a {
-    color: #3498db;
+    color: #86959f;
 }
 
 img {
-    margin: 10px;
-    padding: 5px;
-    border-radius: 10px;
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    border: 1px solid #333;
+
 }
 nav a {
     margin-right: 20px;
     text-decoration: none;
 }
-  
+
+
 
 
 
